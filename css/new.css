@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+.p1{float:left;padding:0; color:#F33; font-size:35px;text-d:underline;  font-weight:bold; text-shadow:2px 2px #666; margin:20px}
+.p2{float:left;padding:-20px; color:#FF0000;font-size:25px; text-align:center; font-weight:bold; margin:0px 15px 0px}
+.span1{color: #FFC;font-weight:bold}
+.h1{color:#F33; font-family: 'Times New Roman', Times, serif; text-align:center; text-decoration:underline; font-size: 50px; text-shadow:2px 2px #666;}
+.harakt{text-align:center; font-size:36px; color:#F30}
+.c{color:#FF0000; font-weight:bold}
+.text{
+	width: 75%;
+	padding-right:50px;
+	padding-left:50px;
+	text-align: center;
+	color:#999;
+	margin:20px;
+	font-size: 30px;
+	text-shadow:2px 2px #000;
+}
+tr{color:#CCC}
+
+
+
+.frame
+{
+	width: 1200px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.al{
+	float: left;
+	padding: -20px;
+	color: #FF0004;
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+	margin: 0px 15px 0px
+}
+.alfa{float:left;padding:0; color:#FF9; font-size:35px;text-decoration:underline;  font-weight:bold; text-shadow:2px 2px #666; margin:20px}
+.harakt2{ color:#000000; font-family:"MS Serif", "New York", serif; text-align:center; text-decoration:underline; font-size: 50px; text-shadow:2px 2px #666;}
+.acolor{ color:#000}
+.alpha table tr td strong em {
+	color: #FFFFFF;
+}
+.alpha table {
+	color: #FFF;
+}
+.au{float:left;padding:-20px; color:#F00;font-size:25px; text-align:center; font-weight:bold; margin:0px 15px 0px}.acura table {
+	color: #000;
+}
+.acu {
+	color: #2A00FF;
+	font-weight: bold;
+}
+.harakt3{text-align:center; font-size:36px; color:#CCC; text-decoration:underline; ; font-size: 50px; text-shadow:2px 2px #666;}
+.vid:hover{ background-image:url(images/little/fon_hover.png)}
+
+
+
+

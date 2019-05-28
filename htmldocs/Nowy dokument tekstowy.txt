@@ -1,0 +1,31 @@
+<div style="width:100%; text-align: center">
+		<div class="top" style="display: inline-block; width: 100%;">
+					<div align="center">
+							<h1 align="center">Specifications</h1>
+							<ul style=" display: flex; flex-wrap: wrap">
+									<li><div id="opis"><h3>Car brand</h3><i>Acura</i><br></div></li>
+									<li><div id="opis"><h3>Model</h3><i>Acura</i><br></div></li>
+									<li><div id="opis"><h3>Year</h3><i>Acura</i><br></div></li>
+									<li><div id="opis"><h3>Engine</h3><i>Acura</i><br></div></li>
+									<li><div id="opis"><h3>Transmission</h3><i>Acura</i><br></div></li>
+									<li><div id="opis"><h3>Engine capacity</h3><i>Acura</i><br></div></li>
+									<li><div id="opis"><h3>Cena</h3><i>Acura</i><br></div></li>
+							</ul>
+							<br>
+				</div>
+	</div>
+</div>
+<div style="width:100%">
+		<div>
+					<div align="center" id="thumbs">
+								<ul class="zoom_img" style=" display: flex; flex-wrap: wrap;">
+									<li><img width="272px" src="../images/acura/nsx/1_large.png" /></li>
+									<li><img width="272px" src="../images/acura/nsx/2_large.png" /></li>
+									<li><img width="272px" src="../images/acura/nsx/3_large.png" /></li>
+									<li><img width="272px" src="../images/acura/nsx/4_large.png" /></li>
+									<li><img width="272px" src="../images/acura/nsx/5_large.png" /></li>
+							</ul>
+							<br>
+				</div>
+	</div>
+</div>
